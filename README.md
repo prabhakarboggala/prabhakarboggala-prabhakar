@@ -1,4 +1,4 @@
-# Dark Vision - Discover dark data in videos with IBM Watson and IBM Bluemix OpenWhisk
+# Dark Vision - Discover dark data in videos with IBM Watson and IBM Bluemix OpenWhisk prabhakr
 
 [![Build Status](https://travis-ci.org/IBM-Bluemix/openwhisk-darkvisionapp.svg?branch=master)](https://travis-ci.org/IBM-Bluemix/openwhisk-darkvisionapp) ![Bluemix Deployments](https://deployment-tracker.mybluemix.net/stats/ad94d1daf817a5fd818f977c0a7cf632/badge.svg)
 
